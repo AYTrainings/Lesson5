@@ -190,9 +190,9 @@
             //Console.WriteLine(minValue);
         }
 
-        int GetSomething(int a, int b)
+        int GetSomething(int firstNumber, int secondNumber)
         {
-            return a+b;
+            return firstNumber + secondNumber;
         }
 
         #endregion
