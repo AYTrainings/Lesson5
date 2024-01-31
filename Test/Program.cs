@@ -190,6 +190,10 @@
             //Console.WriteLine(minValue);
         }
 
+        int GetSomething(){
+            return 0;
+        }
+
         #endregion
     }
 }
