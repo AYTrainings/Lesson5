@@ -187,7 +187,7 @@
         {
             int[] numbers = { 5, 2, 8, 1, 9 };
             int minValue = numbers.Max();
-            Console.WriteLine(minValue);
+            //Console.WriteLine(minValue);
         }
 
         #endregion
